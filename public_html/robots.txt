@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kumbirai.com/sitemap.xml
+
+# Crawl-delay (optional, for rate limiting)
+Crawl-delay: 1
